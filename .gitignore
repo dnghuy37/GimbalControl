@@ -1,0 +1,27 @@
+# --- Qt Creator / C++ specific ---
+*.user
+*.user.*
+*.active
+build-*/
+debug/
+release/
+
+# --- Compiled files ---
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+*.exe
+*.out
+
+# --- Visual Studio (if you use it with Qt) ---
+.vs/
+*.vcxproj
+*.user
+*.sln
+
+# --- OS specific ---
+Thumbs.db
+.DS_Store

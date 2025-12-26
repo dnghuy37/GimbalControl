@@ -2,10 +2,9 @@
 *.user
 *.user.*
 *.active
-build-*/
+build*/
 debug/
 release/
-Backup-*/
 # --- Compiled files ---
 *.o
 *.obj
